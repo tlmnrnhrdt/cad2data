@@ -1,7 +1,7 @@
-# 🏗️ CAD/BIM to Excel + Geometry Converter Pipeline + QTO
+# 🏗️ CAD/BIM Converter to Excel + Geometry + Pipeline QTO
 
 <p align="center">
-  <img src="https://datadrivenconstruction.io/wp-content/uploads/2025/06/n8n-pipeline-5.png" alt="Pipeline Overview" width="100%"/>
+  <img src="https://datadrivenconstruction.io/wp-content/uploads/2025/06/n8n-pipeline-7.png" alt="Pipeline Overview" width="100%"/>
 </p>
 
 **Transform your CAD/BIM files into structured data and 3D geometry without Autodesk® licenses or APIs**
@@ -143,6 +143,11 @@ graph TD;
 - Professional HTML reports
 - Volume calculations by wall type
 
+**Generated Reports Include:**
+- 📊 Summary statistics (total elements, volumes, averages)
+- 📋 Detailed breakdown by element type - "Type Name"
+- 🎨 Interactive HTML dashboard
+
 ```mermaid
 graph TD;
     A[🟢 Manual Trigger] --> B[🛠 Setup File Paths]
@@ -165,11 +170,6 @@ graph TD;
   <img src="https://datadrivenconstruction.io/wp-content/uploads/2025/06/n8n-pipeline-3.png" alt="QTO Report Sample" width="100%"/>
 </p>
 
-**Generated Reports Include:**
-- 📊 Summary statistics (total elements, volumes, averages)
-- 📋 Detailed breakdown by element type
-- 🎨 Interactive HTML dashboard with progress bars
-- 📱 Responsive design for all devices
 
 
 
@@ -177,7 +177,7 @@ graph TD;
 
 For AI-powered processing and advanced automation:
 
-👉 **[Full LLM Pipeline](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT)**
+🤖 **[Full LLM Pipeline](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT)**
 
 Features ChatGPT integration, element classification, and code generation.
 
@@ -190,6 +190,7 @@ We welcome contributions! Please feel free to:
 - 💡 Suggest features
 - 🔧 Submit pull requests
 - 📖 Improve documentation
+
 
 ## Support
 
@@ -211,9 +212,14 @@ For inquiries or workshop bookings, visit [DataDrivenConstruction.io](https://da
 
 ---
 
-<p align="center">
-  <b>Transform your CAD/BIM data workflow today!</b><br>
+<p align="left">
+  <b>Unlock the Power of Data in Construction</b>
+    <br><br>
   <a href="https://datadrivenconstruction.io">
     <img src="https://datadrivenconstruction.io/wp-content/uploads/2023/07/DataDrivenConstruction-1-1.png" alt="DDC Logo" width="200"/>
   </a>
+  <br>
+  🚀 Move to full-cycle data management  where only unified granular  <br /> structured data & processes remain and where  🔓 your data is yours
+
+
 </p>
